@@ -1,0 +1,29 @@
+{
+  "name": "tinv",
+  "version": "1.0.0",
+  "description": "A simple genie for loading .env files.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquimnet/tinv.git"
+  },
+  "keywords": [
+    "env"
+  ],
+  "author": "Joaquim Neto (joaquimmy@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaquimnet/tinv/issues"
+  },
+  "homepage": "https://github.com/joaquimnet/tinv#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.0",
+    "app-root-path": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
