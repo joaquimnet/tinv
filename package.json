@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/joaquimnet/tinv#readme",
   "dependencies": {
-    "@types/jest": "^26.0.0",
     "app-root-path": "^3.0.0"
   },
   "devDependencies": {
+    "@types/jest": "^26.0.15",
     "jest": "^26.0.1"
   }
 }
