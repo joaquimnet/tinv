@@ -1,0 +1,6 @@
+*.md
+tinv.png
+tests
+.env
+.env.dev
+*.tgz
